@@ -1,4 +1,4 @@
----
+install---
 title: Installing a GitHub App from a third party
 intro: 'You can install {% data variables.product.prodname_github_apps %} directly from the app owner to use on your personal account or organizations.'
 versions:
